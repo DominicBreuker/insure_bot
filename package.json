@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DominicBreuker/insure_bot/issues"
   },
-  "homepage": "https://github.com/DominicBreuker/insure_bot#readme"
+  "homepage": "https://github.com/DominicBreuker/insure_bot#readme",
+  "dependencies": {
+    "node-wit": "^3.2.2"
+  }
 }
