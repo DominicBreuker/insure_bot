@@ -1,0 +1,19 @@
+{
+  "name": "insure_bot",
+  "version": "1.0.0",
+  "description": "A sample chatbot for FB messenger created with wit.ai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DominicBreuker/insure_bot.git"
+  },
+  "author": "Dominic Breuker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DominicBreuker/insure_bot/issues"
+  },
+  "homepage": "https://github.com/DominicBreuker/insure_bot#readme"
+}
